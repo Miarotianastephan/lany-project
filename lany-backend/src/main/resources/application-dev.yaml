@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/lany_dev
+    username: lany
+    password: lany_pwd_01
+    # create user lany with password 'lany_pwd_01';
